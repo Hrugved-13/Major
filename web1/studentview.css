@@ -1,0 +1,70 @@
+*{
+    padding: 0px;
+    margin:1px;
+     background-color: #d6d3d3; 
+}
+.clg img{
+    width: 100%;
+    height:550px; 
+}
+.clg-text h1{
+    text-align:center;
+    position:absolute;
+    top: 25%;
+    left:40%;
+    font-size: 60px;
+    /*text-decoration: underline;*/
+    text-decoration-color:Black;
+    color:Black;
+    font-weight: bolder;
+    background-color: rgba(0,0,0,0);
+    border: 5px solid black ;
+    border-radius: 15px;
+}
+
+.btn-group button {
+    background-color: white; 
+    border: 3px solid black; 
+    color: black; 
+    padding: 15px 44px; /* Some padding */
+    margin-bottom: 1%;
+    cursor: pointer; /* Pointer/hand icon */
+    float: center; /* Float the buttons side by side */
+    margin-left: 42%;
+  }
+#CU{
+    margin-left: 41%;
+}
+#TT{
+    padding: 15px 64px;
+    margin-left: 41%;
+}
+#AS{
+    padding: 15px 58px;
+    margin-left: 41%;
+}
+footer {
+	clear: both;
+    position: relative;
+    overflow: hidden;
+    /*margin-left: 42%;*/
+    padding-top: 4%;
+    text-align: center;
+    background-color:#827d7d;
+    ;
+  }
+  footer a {
+	text-decoration: none;
+	margin: 0px;
+	text-align: center;
+	/*float: left;*/
+	color:black;
+    padding-bottom:1%;
+    background-color: rgba(0,0,0,0);
+    position: relative;
+     
+    
+    
+}
+
+  
