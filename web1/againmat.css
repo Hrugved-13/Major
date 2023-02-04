@@ -84,7 +84,12 @@ form{
     padding: 20px;
     margin: auto;
     background: #c06360;
-    /*background: #ff000080;*/
+    /*hrugved modifications*/
+    /*background-color: #d6cece;
+    filter: opacity(80%);*/
+    /*blur code
+    filter: blur(8px);
+    -webkit-filter: blur(8px);*/
     font-size: 20px;
     margin-top: 7%;
     border-radius: 6%;
